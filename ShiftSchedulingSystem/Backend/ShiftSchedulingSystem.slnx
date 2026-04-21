@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShiftScheduling.API/ShiftScheduling.API.csproj" />
+  <Project Path="ShiftScheduling.Core/ShiftScheduling.Core.csproj" />
+  <Project Path="ShiftScheduling.Infrastructure/ShiftScheduling.Infrastructure.csproj" />
+</Solution>

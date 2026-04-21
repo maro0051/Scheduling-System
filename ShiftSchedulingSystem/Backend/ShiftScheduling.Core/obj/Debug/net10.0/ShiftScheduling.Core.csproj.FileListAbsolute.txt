@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\bin\Debug\net10.0\ShiftScheduling.Core.deps.json
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\bin\Debug\net10.0\ShiftScheduling.Core.dll
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\bin\Debug\net10.0\ShiftScheduling.Core.pdb
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.sourcelink.json
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.dll
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\refint\ShiftScheduling.Core.dll
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ShiftScheduling.Core.pdb
+C:\Users\ADMIN\Downloads\project\Scheduling-System\ShiftSchedulingSystem\Backend\ShiftScheduling.Core\obj\Debug\net10.0\ref\ShiftScheduling.Core.dll
